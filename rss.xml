@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The T-Shirt Kids]]></title>
         <description><![CDATA[The T-Shirt Kids]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-t-shirt-kids/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 20:35:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Apr 2016 20:39:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-t-shirt-kids/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3e6dc8a-65a1-4aa7-87cf-20741c670f5e.png">]]></description>
-            <link>undefinedb96d93a3-4b23-4ff3-bf7f-0e94aa205c73/index.html</link>
+            <link>https://thegrid.ai/the-t-shirt-kids/b96d93a3-4b23-4ff3-bf7f-0e94aa205c73/index.html</link>
             <guid isPermaLink="false">b96d93a3-4b23-4ff3-bf7f-0e94aa205c73</guid>
-            <pubDate>Fri, 15 Apr 2016 20:35:17 GMT</pubDate>
+            <pubDate>Fri, 15 Apr 2016 20:39:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
