@@ -27,8 +27,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BD3epN0ghf9/?taken-by=thetshirtkids'
 title: "New supply drop from American Apparel for Spring 2016! All kids sizes replenished of course. We now have men's tanks and tees. Ladies racer tanks and tees arriving later this month. #americanapparel #containerstore #readyforsummer #summerfashionshit #summertrends #kidstshirt #fashionablekids #styleinspiration #diyfashion"
-datePublished: '2016-04-16T02:36:17.516Z'
-dateModified: '2016-04-16T02:34:46.750Z'
+datePublished: '2016-04-16T03:58:56.638Z'
+dateModified: '2016-04-16T02:44:26.531Z'
 sourcePath: _posts/2016-04-16-new-supply-drop-from-american-apparel-for-spring-2016-all-k.md
 published: true
 inFeed: true
