@@ -27,8 +27,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BBT0mQDAhUN/?taken-by=thetshirtkids'
 title: 'My daughter used my Stabilo pens and asked me to create an aluminum bracelet with her art. Challenge accepted. #daddysgirl #stabilo #youngartist #coloring #art #aluminum #bracelet #fashionkids'
-datePublished: '2016-04-16T02:36:17.600Z'
-dateModified: '2016-04-16T02:34:26.843Z'
+datePublished: '2016-04-16T03:58:25.606Z'
+dateModified: '2016-04-16T02:44:14.038Z'
 sourcePath: _posts/2016-04-16-my-daughter-used-my-stabilo-pens-and-asked-me-to-create-an-a.md
 published: true
 inFeed: true
