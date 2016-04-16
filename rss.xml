@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The T-Shirt Kids]]></title>
         <description><![CDATA[The T-Shirt Kids]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-t-shirt-kids/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 02:07:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Apr 2016 02:07:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-t-shirt-kids/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Afro Brazilian Bracelet - Brazil]]></title>
+            <description><![CDATA[<article><h1>Afro Brazilian Bracelet - Brazil</h1><p>Brazil Flag Cuff Bracelet</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9799908-d230-43fb-a448-4be5d113980f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-t-shirt-kids/05a0552e-10ae-4601-8bfd-65de9e8edeae/index.html</link>
+            <guid isPermaLink="false">05a0552e-10ae-4601-8bfd-65de9e8edeae</guid>
+            <pubDate>Sat, 16 Apr 2016 02:06:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Afro Brazilian Bracelet - Dominican Republic]]></title>
             <description><![CDATA[<article><h1>Afro Brazilian Bracelet - Dominican Republic</h1><p>Dominican Republic Flag Cuff Bracelet</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e3b5a54-06d8-4aaf-8642-bb043296f595.jpg"></article>]]></description>
-            <link>undefineddee68291-7e4b-449a-a4ec-6f925e11d73f/index.html</link>
+            <link>https://thegrid.ai/the-t-shirt-kids/dee68291-7e4b-449a-a4ec-6f925e11d73f/index.html</link>
             <guid isPermaLink="false">dee68291-7e4b-449a-a4ec-6f925e11d73f</guid>
             <pubDate>Sat, 16 Apr 2016 02:06:55 GMT</pubDate>
         </item>
