@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BBQGVSdghWu/?taken-by=thetshirtkids'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-04-16T02:37:39.311Z'
+dateModified: '2016-04-16T02:36:51.552Z'
 author:
   - name: thetshirtkids
     url: 'https://www.instagram.com/thetshirtkids'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1175467353954194862'
     type: ios
@@ -25,15 +29,15 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/BBQGVSdghWu/?taken-by=thetshirtkids'
 title: 'Awesome #volunteer day with grades K-5 today. We are doing #hourofcode puzzles with #angrybirds #bb8 #minecraft and #frozen. I only got in trouble once. #teachers are awesome.'
-datePublished: '2016-04-16T02:36:17.531Z'
-dateModified: '2016-04-16T02:34:21.834Z'
 sourcePath: _posts/2016-04-16-awesome-volunteer-day-with-grades-k-5-today-we-are-doing.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
