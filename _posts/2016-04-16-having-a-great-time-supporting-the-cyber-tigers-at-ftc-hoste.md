@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BBdQliVghYl/?taken-by=thetshirtkids'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-04-16T12:47:22.742Z'
+dateModified: '2016-04-16T12:46:56.233Z'
 author:
   - name: thetshirtkids
     url: 'https://www.instagram.com/thetshirtkids'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1179171625673823781'
     type: ios
@@ -25,15 +29,15 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/BBdQliVghYl/?taken-by=thetshirtkids'
 title: 'Having a great time supporting the Cyber Tigers at FTC hosted by @sghsstorm #omgrobots #firsttechchallenge #greensboronc'
-datePublished: '2016-04-16T03:58:42.566Z'
-dateModified: '2016-04-16T02:44:21.193Z'
 sourcePath: _posts/2016-04-16-having-a-great-time-supporting-the-cyber-tigers-at-ftc-hoste.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 _type: MediaObject
 _context: 'http://schema.org'
 
