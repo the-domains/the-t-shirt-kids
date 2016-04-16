@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/_8fFtOghas/?taken-by=thetshirtkids'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-04-16T02:46:03.457Z'
+dateModified: '2016-04-16T02:45:45.053Z'
 author:
   - name: thetshirtkids
     url: 'https://www.instagram.com/thetshirtkids'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1151932336301020844'
     type: ios
@@ -25,15 +29,15 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/_8fFtOghas/?taken-by=thetshirtkids'
 title: My last vacation before official launch on Feb 1.
-datePublished: '2016-04-16T02:45:24.168Z'
-dateModified: '2016-04-16T02:44:03.984Z'
 sourcePath: _posts/2016-04-16-my-last-vacation-before-official-launch-on-feb-1.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 _type: MediaObject
 _context: 'http://schema.org'
 
