@@ -27,8 +27,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BB2QNo5AhRF/?taken-by=thetshirtkids'
 title: '$20 special until April 1st. Graphics, text, pictures...whatever on these metal license plates. Definitely tough enough for any February weather. #icestorm #raleigh #northcarolina #custommade #licenseplate #onsale'
-datePublished: '2016-04-16T02:36:17.512Z'
-dateModified: '2016-04-16T02:34:38.455Z'
+datePublished: '2016-04-16T03:58:49.862Z'
+dateModified: '2016-04-16T02:44:22.895Z'
 sourcePath: _posts/2016-04-16-dollar20-special-until-april-1st-graphics-text-pictureswhat.md
 published: true
 inFeed: true
