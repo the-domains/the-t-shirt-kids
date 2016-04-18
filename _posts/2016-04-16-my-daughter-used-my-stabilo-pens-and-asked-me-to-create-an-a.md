@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'My daughter used my Stabilo pens and asked me to create an aluminum bracelet with her art. Challenge accepted. '
-datePublished: '2016-04-18T10:44:27.599Z'
-dateModified: '2016-04-18T10:42:58.248Z'
+datePublished: '2016-04-18T11:00:20.537Z'
+dateModified: '2016-04-18T10:44:36.537Z'
 author:
   - name: thetshirtkids
     url: 'https://www.instagram.com/thetshirtkids'
