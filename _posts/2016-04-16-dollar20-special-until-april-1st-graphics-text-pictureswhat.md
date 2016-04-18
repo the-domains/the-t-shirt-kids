@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-16T16:47:30.053Z'
-dateModified: '2016-04-16T16:47:29.841Z'
+datePublished: '2016-04-18T10:44:55.847Z'
+dateModified: '2016-04-18T02:39:13.017Z'
 author:
   - name: thetshirtkids
     url: 'https://www.instagram.com/thetshirtkids'
@@ -29,7 +29,7 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-title: '$20 special until April 1st. Graphics, text, pictures...whatever on these metal license plates. Definitely tough enough for any February weather. #icestorm #raleigh #northcarolina #custommade #licenseplate #onsale'
+title: '$20 special until April 1st. Graphics, text, pictures...whatever on these metal license plates. Definitely tough enough for any February weather.'
 sourcePath: _posts/2016-04-16-dollar20-special-until-april-1st-graphics-text-pictureswhat.md
 published: true
 authors: []
