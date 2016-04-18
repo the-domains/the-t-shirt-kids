@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.instagram.com/p/BEJt9QighZ9/?taken-by=thetshirtkids'
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-16T16:46:39.657Z'
-dateModified: '2016-04-16T16:46:29.062Z'
+datePublished: '2016-04-18T10:43:41.597Z'
+dateModified: '2016-04-18T10:43:26.904Z'
 author:
   - name: thetshirtkids
     url: 'https://www.instagram.com/thetshirtkids'
@@ -29,7 +29,7 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-title: 'Full pic of the Nat-Geo (nature geometric) lion from earlier this week. DM with email if you want one. #tshirtkids #ontrend #lion #natureart #naturelover #lowpoly #geometricart #customshirts #shopsmall #tshirts #shoplocalraleigh #raleigh #nc #919'
+title: Full pic of the Nat-Geo (nature geometric) lion from earlier this week. DM with email if you want one.
 sourcePath: _posts/2016-04-16-full-pic-of-the-nat-geo-nature-geometric-lion-from-earlier.md
 published: true
 authors: []
@@ -42,4 +42,4 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Full pic of the Nat-Geo (nature geometric) lion from earlier this week. DM with email if you want one. #tshirtkids #ontrend #lion #natureart #naturelover #lowpoly #geometricart #customshirts #shopsmall #tshirts #shoplocalraleigh #raleigh #nc #919](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0938da8f0a60aaf51948964ef92f32693513392d.jpg)
+![Full pic of the Nat-Geo (nature geometric) lion from earlier this week. DM with email if you want one.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0938da8f0a60aaf51948964ef92f32693513392d.jpg)
