@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://www.instagram.com/p/BBT0mQDAhUN/?taken-by=thetshirtkids'
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-18T10:42:54.535Z'
-dateModified: '2016-04-18T02:39:59.944Z'
+description: 'My daughter used my Stabilo pens and asked me to create an aluminum bracelet with her art. Challenge accepted. '
+datePublished: '2016-04-18T10:44:27.599Z'
+dateModified: '2016-04-18T10:42:58.248Z'
 author:
   - name: thetshirtkids
     url: 'https://www.instagram.com/thetshirtkids'
@@ -42,4 +42,4 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![My daughter used my Stabilo pens and asked me to create an aluminum bracelet with her art. Challenge accepted. #daddysgirl #stabilo #youngartist #coloring #art #aluminum #bracelet #fashionkids](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a236274015b2609a152e31603c7b10aba99b9bef.jpg)
+![My daughter used my Stabilo pens and asked me to create an aluminum bracelet with her art. Challenge accepted. ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a236274015b2609a152e31603c7b10aba99b9bef.jpg)
