@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://www.instagram.com/p/BB2QNo5AhRF/?taken-by=thetshirtkids'
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-18T10:44:55.847Z'
-dateModified: '2016-04-18T02:39:13.017Z'
+description: '$20 special until April 1st. Graphics, text, pictures...whatever on these metal license plates. Definitely tough enough for any February weather. '
+datePublished: '2016-04-18T11:00:07.444Z'
+dateModified: '2016-04-18T10:45:04.791Z'
 author:
   - name: thetshirtkids
     url: 'https://www.instagram.com/thetshirtkids'
@@ -42,4 +42,4 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![$20 special until April 1st. Graphics, text, pictures...whatever on these metal license plates. Definitely tough enough for any February weather. #icestorm #raleigh #northcarolina #custommade #licenseplate #onsale](https://s3-us-west-2.amazonaws.com/the-grid-img/p/49525da6b10a92d921b63367cabf6a0cf0c51be4.jpg)
+![$20 special until April 1st. Graphics, text, pictures...whatever on these metal license plates. Definitely tough enough for any February weather. ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/49525da6b10a92d921b63367cabf6a0cf0c51be4.jpg)
