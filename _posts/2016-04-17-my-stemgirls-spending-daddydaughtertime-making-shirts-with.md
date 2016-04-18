@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-17T18:37:03.558Z'
-dateModified: '2016-04-17T18:37:03.103Z'
+datePublished: '2016-04-18T10:59:45.160Z'
+dateModified: '2016-04-18T10:59:39.269Z'
 author:
   - name: thetshirtkids
     url: 'https://www.instagram.com/thetshirtkids'
@@ -30,14 +30,14 @@ app_links:
     namespace: google
     type: android
 title: 'My #stemgirls spending #daddydaughtertime making shirts with me.'
+sourcePath: _posts/2016-04-17-my-stemgirls-spending-daddydaughtertime-making-shirts-with.md
+published: true
 authors: []
 publisher:
   name: Instagram
   domain: www.instagram.com
   url: 'https://www.instagram.com'
   favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-sourcePath: _posts/2016-04-17-my-stemgirls-spending-daddydaughtertime-making-shirts-with.md
-published: true
 _type: Photograph
 _context: 'http://schema.org'
 
