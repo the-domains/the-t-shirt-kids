@@ -4,8 +4,15 @@
         <description><![CDATA[The T-Shirt Kids]]></description>
         <link>https://thegrid.ai/the-t-shirt-kids/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 14:48:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 14:48:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-t-shirt-kids/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/89c54a41-0821-4f21-bc61-c8805266a0ef.jpg">]]></description>
+            <link>https://thegrid.ai/the-t-shirt-kids/f119657d-8526-4f36-8c93-7e5c40ec7444/index.html</link>
+            <guid isPermaLink="false">f119657d-8526-4f36-8c93-7e5c40ec7444</guid>
+            <pubDate>Sat, 30 Apr 2016 14:47:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/45893d69-b09c-4838-9d39-8bf4edcf5702.png">]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BBQGVSdghWu/?taken-by=thetshirtkids</link>
             <guid isPermaLink="false">1de4c250-524b-4cb2-a884-f9d7d2d5b6c1</guid>
             <pubDate>Mon, 18 Apr 2016 11:00:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My daughter used my Stabilo pens and asked me to create an aluminum bracelet with her art. Challenge accepted.]]></title>
-            <description><![CDATA[<article><h1>My daughter used my Stabilo pens and asked me to create an aluminum bracelet with her art. Challenge accepted.</h1><p>My daughter used my Stabilo pens and asked me to create an aluminum bracelet with her art. Challenge accepted. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a236274015b2609a152e31603c7b10aba99b9bef.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/BBT0mQDAhUN/?taken-by=thetshirtkids</link>
-            <guid isPermaLink="false">0fbb12c3-486a-4213-8ecb-551590d7f3a7</guid>
-            <pubDate>Mon, 18 Apr 2016 11:00:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
